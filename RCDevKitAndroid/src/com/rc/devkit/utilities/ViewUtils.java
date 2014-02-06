@@ -3,9 +3,6 @@ package com.rc.devkit.utilities;
 import android.graphics.drawable.GradientDrawable;
 import android.view.View;
 
-/**
- * Created by Softhis on 16.12.2013.
- */
 public class ViewUtils
 {
     public static int goneVisiblity(boolean isVisible)

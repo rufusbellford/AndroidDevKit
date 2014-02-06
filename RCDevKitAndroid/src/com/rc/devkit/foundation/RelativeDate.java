@@ -5,9 +5,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
-/**
- * Created by Softhis on 09.12.2013.
- */
 public class RelativeDate extends Date
 {
     //================================================================================

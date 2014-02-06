@@ -3,9 +3,6 @@ package com.rc.devkit.utilities;
 import android.content.Context;
 import android.widget.Toast;
 
-/**
- * Created by Softhis on 19.11.2013.
- */
 public class Registry
 {
     private static Registry instance = null;

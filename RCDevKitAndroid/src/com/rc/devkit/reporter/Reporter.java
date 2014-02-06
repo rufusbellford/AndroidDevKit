@@ -3,9 +3,6 @@ package com.rc.devkit.reporter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Softhis on 19.12.2013.
- */
 public class Reporter implements Output
 {
     private final int LOG_SIZE = 100;

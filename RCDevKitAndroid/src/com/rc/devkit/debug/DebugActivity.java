@@ -22,9 +22,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Softhis on 06.12.2013.
- */
 public abstract class DebugActivity extends Activity implements AdapterView.OnItemClickListener
 {
     // Installation:

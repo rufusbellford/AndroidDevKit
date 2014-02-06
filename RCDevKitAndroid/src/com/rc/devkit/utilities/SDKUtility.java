@@ -8,9 +8,6 @@ import android.os.Build;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-/**
- * Created by Softhis on 04.12.2013.
- */
 public class SDKUtility
 {
     public static void showKeyboard(final EditText editText)

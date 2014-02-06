@@ -4,9 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by Softhis on 30.08.2013.
- */
 public abstract class BaseSplashScreenActivity extends Activity
 {
     //================================================================================

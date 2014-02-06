@@ -4,9 +4,6 @@ import android.os.Bundle;
 
 import java.io.Serializable;
 
-/**
- * Created by Softhis on 06.12.2013.
- */
 public class DebugRunOption
 {
     private Class runningClass = null;

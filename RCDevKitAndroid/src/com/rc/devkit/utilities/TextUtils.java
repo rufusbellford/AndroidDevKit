@@ -5,9 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-/**
- * Created by Softhis on 06.12.2013.
- */
 public class TextUtils
 {
     public static boolean isEmpty(String string)

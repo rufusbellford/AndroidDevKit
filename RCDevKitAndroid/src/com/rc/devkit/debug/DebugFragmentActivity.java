@@ -7,9 +7,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.widget.FrameLayout;
 
-/**
- * Created by Softhis on 06.12.2013.
- */
 public class DebugFragmentActivity extends FragmentActivity
 {
     public static final String FRAGMENT_CLASS_TAG = "FRG_CLASS";

@@ -4,9 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-/**
- * Created by Softhis on 31.01.2014.
- */
 public class ActivityActionExecutor
 {
     private Bundle extras = null;

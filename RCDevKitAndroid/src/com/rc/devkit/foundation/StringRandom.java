@@ -4,9 +4,6 @@ import java.math.BigInteger;
 import java.security.SecureRandom;
 import java.util.Random;
 
-/**
- * Created by Softhis on 10.12.2013.
- */
 public class StringRandom
 {
     //================================================================================

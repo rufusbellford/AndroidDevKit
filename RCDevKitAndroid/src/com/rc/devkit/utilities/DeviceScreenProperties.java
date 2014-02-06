@@ -3,9 +3,6 @@ package com.rc.devkit.utilities;
 import android.content.Context;
 import android.util.DisplayMetrics;
 
-/**
- * Created by Softhis on 03.12.2013.
- */
 public class DeviceScreenProperties
 {
     private Integer lastSnapshotOrientation;

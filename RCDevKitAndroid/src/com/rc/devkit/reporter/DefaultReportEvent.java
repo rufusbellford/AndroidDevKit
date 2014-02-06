@@ -2,9 +2,6 @@ package com.rc.devkit.reporter;
 
 import java.text.SimpleDateFormat;
 
-/**
- * Created by Softhis on 19.12.2013.
- */
 public class DefaultReportEvent extends ReportEventCore implements ReportEvent
 {
     private SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH:mm:ss");

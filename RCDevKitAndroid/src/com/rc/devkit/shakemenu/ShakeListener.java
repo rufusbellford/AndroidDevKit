@@ -11,9 +11,6 @@ import android.widget.Toast;
 import com.rc.devkit.utilities.Penny;
 import com.rc.devkit.utilities.Registry;
 
-/**
- * Created by Softhis on 13.01.2014.
- */
 public class ShakeListener implements SensorEventListener
 {
     private OnShakeOccuredListener onShakeOccuredListener;

@@ -13,9 +13,6 @@ import android.widget.TextView;
 import com.rc.devkit.reporter.Reporter;
 import com.rc.devkit.utilities.Penny;
 
-/**
- * Created by Softhis on 13.01.2014.
- */
 public class ShakedMenu extends AlertDialog
 {
     private LinearLayout layout;

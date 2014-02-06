@@ -3,9 +3,6 @@ package com.rc.devkit.reporter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by Softhis on 19.12.2013.
- */
 public class ReportLog
 {
     private SimpleDateFormat simpleDateFormat;

@@ -7,9 +7,6 @@ import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Bundle;
 
-/**
- * Created by Softhis on 06.12.2013.
- */
 public class ActivityUtils
 {
     // TODO: Add different type of start activity

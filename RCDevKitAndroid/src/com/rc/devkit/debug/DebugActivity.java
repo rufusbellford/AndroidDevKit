@@ -22,6 +22,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/*
+ * TODO: Naprawic indexowanie rejestracji ! Tak ˝eby pasowa∏o do póêniejszych uruchomien
+ * TODO: Work on naming !!!
+ */
 public abstract class DebugActivity extends Activity implements AdapterView.OnItemClickListener
 {
     // Installation:
@@ -154,6 +158,7 @@ public abstract class DebugActivity extends Activity implements AdapterView.OnIt
      *  Use register methods to init these screens
      */
     public abstract void initRunOptions();
+    // TODO: Refactor to registerRunOptions();
 
     /**
      * Return index of Option to run.
